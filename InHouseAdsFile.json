@@ -1,7 +1,7 @@
 {
 	"inHouseSingleDatas": [
 		{
-			"gameName": "DIY",
+			"gameName": "DIY_Makeup",
 			"bundleId": "diy",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.diymakeup",
 			"iconURL": [
@@ -10,7 +10,7 @@
 			]
 		},
 		{
-			"gameName": "Steak",
+			"gameName": "SteakCooking",
 			"bundleId": "steak",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.steakcooking",
 			"iconURL": [
