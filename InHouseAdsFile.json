@@ -5,8 +5,8 @@
 			"bundleId": "diy",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.diymakeup",
 			"iconURL": [
-				"https://github.com/GamesHive/InHouseAdsGameIcon/blob/main/Map-Camping.png",
-				"https://github.com/GamesHive/InHouseAdsGameIcon/blob/main/Map-Country.png"
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-Camping.png",
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-Country.png"
 			]
 		},
 		{
@@ -14,8 +14,8 @@
 			"bundleId": "steak",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.steakcooking",
 			"iconURL": [
-				"https://github.com/GamesHive/InHouseAdsGameIcon/blob/main/Map-Food.png",
-				"https://github.com/GamesHive/InHouseAdsGameIcon/blob/main/Map-PopRock.png"
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-Food.png",
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-PopRock.png"
 			]
 		}
 	]
