@@ -12,33 +12,45 @@
 			"gameName": "DIY Makeup",
 			"bundleId": "diy",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.diymakeup",
-			"iconURL": [
+			"iconURLs": [
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-Camping.png",
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-Country.png"
 			],
-			"iconCounter": 0
+			"iconCounter": 0,
+			"videoURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/Xpromo-ParkingJam.mp4"
+			],
+			"videoCounter": 0
 		},
 		{
 			"adUsageStatus": 0,
 			"gameName": "SteakCookng",
 			"bundleId": "steak",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.steakcooking",
-			"iconURL": [
+			"iconURLs": [
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-Food.png",
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-PopRock.png"
 			],
-			"iconCounter": 0
+			"iconCounter": 0,
+			"videoURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/Xpromo-PullThePin.mp4"
+			],
+			"videoCounter": 0
 		},
 		{
 			"adUsageStatus": 0,
 			"gameName": "MommyPizza",
 			"bundleId": "pizza",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.ilovepizza",
-			"iconURL": [
+			"iconURLs": [
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/pizzaNew.png",
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/pizza2.png"
 			],
-			"iconCounter": 0
+			"iconCounter": 0,
+			"videoURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/Xpromo-ScavengerHunt.mp4"
+			],
+			"videoCounter": 0
 		}
 	],
 	"bundleCounter": 0
