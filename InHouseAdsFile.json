@@ -1,6 +1,11 @@
 {
 	"IsEnabled": false,
 	"AdRefreshTime": 5,
+	"buttonNames": [
+		"Get It",
+		"Try It",
+		"Download"
+	],
 	"inHouseSingleDatas": [
 		{
 			"adUsageStatus": 0,
