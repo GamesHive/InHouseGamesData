@@ -1,6 +1,6 @@
 {
 	"IsEnabled": false,
-	"AdRefreshTime": 5,
+	"AdRefreshTime": 10,
 	"buttonNames": [
 		"Get It",
 		"Try It",
