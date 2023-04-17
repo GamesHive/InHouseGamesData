@@ -1,6 +1,6 @@
 {
 	"IsEnabled": false,
-	"AdRefreshTime": 8,
+	"AdRefreshTime": 5,
 	"buttonNames": [
 		"Get It",
 		"Try It",
@@ -9,47 +9,67 @@
 	"inHouseSingleDatas": [
 		{
 			"adUsageStatus": 0,
+			"iH_AdType": 0,
 			"gameName": "DIY Makeup",
-			"bundleId": "diy",
+			"bundleId": "com.gameshive.diymakeup",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.diymakeup",
 			"iconURLs": [
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-Camping.png",
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-Country.png"
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/DiyMakeup-1.png"
 			],
 			"iconCounter": 0,
-			"videoURLs": [
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/Xpromo-ParkingJam.mp4"
-			],
+			"videoURLs": [],
 			"videoCounter": 0
 		},
 		{
 			"adUsageStatus": 0,
+			"iH_AdType": 0,
 			"gameName": "SteakCookng",
-			"bundleId": "steak",
+			"bundleId": "com.gameshive.steakcooking",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.steakcooking",
 			"iconURLs": [
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-Food.png",
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Map-PopRock.png"
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/SteakCooking_1.png"
 			],
 			"iconCounter": 0,
-			"videoURLs": [
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/Xpromo-PullThePin.mp4"
-			],
+			"videoURLs": [],
 			"videoCounter": 0
 		},
 		{
 			"adUsageStatus": 0,
+			"iH_AdType": 0,
 			"gameName": "MommyPizza",
-			"bundleId": "pizza",
+			"bundleId": "com.gameshive.ilovepizza",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.ilovepizza",
 			"iconURLs": [
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/pizzaNew.png",
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/pizza2.png"
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/Pizza_1.png"
 			],
 			"iconCounter": 0,
-			"videoURLs": [
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/Xpromo-ScavengerHunt.mp4"
+			"videoURLs": [],
+			"videoCounter": 0
+		},
+		{
+			"adUsageStatus": 0,
+			"iH_AdType": 0,
+			"gameName": "Family Simulator",
+			"bundleId": "com.gameshive.familysim",
+			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.familysim",
+			"iconURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/FamilySim_1.png"
 			],
+			"iconCounter": 0,
+			"videoURLs": [],
+			"videoCounter": 0
+		},
+		{
+			"adUsageStatus": 0,
+			"iH_AdType": 0,
+			"gameName": "Cooking Craft",
+			"bundleId": "com.gameshive.cookingadvanture",
+			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.cookingadvanture",
+			"iconURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/CookingCraft_1.png"
+			],
+			"iconCounter": 0,
+			"videoURLs": [],
 			"videoCounter": 0
 		}
 	],
