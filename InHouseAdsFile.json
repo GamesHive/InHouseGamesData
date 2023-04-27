@@ -2,6 +2,7 @@
 	"IsEnabled": false,
 	"AdRefreshTime": 6,
 	"buttonNames": [
+		"Try Now",
 		"Get It",
 		"Try It",
 		"Download"
