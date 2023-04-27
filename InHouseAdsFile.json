@@ -13,6 +13,7 @@
 			"gameName": "DIY Makeup",
 			"bundleId": "com.gameshive.diymakeup",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.diymakeup",
+			"url_IOS": "https://apps.apple.com/us/app/salon-master-makeup-artist/id1641330964",
 			"iconURLs": [
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/DiyMakeup_1.png"
 			],
@@ -26,6 +27,7 @@
 			"gameName": "Steak Cooking",
 			"bundleId": "com.gameshive.steakcooking",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.steakcooking",
+			"url_IOS": "https://apps.apple.com/us/app/steak-cooking-food-cutting/id6444181331",
 			"iconURLs": [
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/SteakCooking_1.png"
 			],
@@ -39,6 +41,7 @@
 			"gameName": "Mommy Pizza",
 			"bundleId": "com.gameshive.ilovepizza",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.ilovepizza",
+			"url_IOS": "https://apps.apple.com/us/app/overcooked-pizza-make-a-pizza/id1642923411",
 			"iconURLs": [
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/MommyPizza_1.png"
 			],
@@ -52,6 +55,7 @@
 			"gameName": "Family Simulator",
 			"bundleId": "com.gameshive.familysim",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.familysim",
+			"url_IOS": "https://apps.apple.com/us/app/virtual-family-life-mom-game/id6443656336",
 			"iconURLs": [
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/FamilySimulator_1.png"
 			],
@@ -65,6 +69,7 @@
 			"gameName": "Cooking Craft",
 			"bundleId": "com.gameshive.cookingadvanture",
 			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.cookingadvanture",
+			"url_IOS": "https://apps.apple.com/us/app/crazy-cooking-simulator-game/id6443555565",
 			"iconURLs": [
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/CookingCraft_1.png"
 			],
