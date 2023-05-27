@@ -82,6 +82,21 @@
 			"iconCounter": 0,
 			"videoURLs": [],
 			"videoCounter": 0
+		},
+		{
+			"adUsageStatus": 0,
+			"iH_AdType": 0,
+			"gameName": "Pragnent Simulator",
+			"bundleId": "com.gameshive.pregnantsim",
+			"ios_ApId": "6443555565",
+			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.pregnantsim",
+			"url_IOS": "https://apps.apple.com/us/app/crazy-cooking-simulator-game/id6443555565",
+			"iconURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/PragnentSim_1.png"
+			],
+			"iconCounter": 0,
+			"videoURLs": [],
+			"videoCounter": 0
 		}
 	],
 	"bundleCounter": 0
