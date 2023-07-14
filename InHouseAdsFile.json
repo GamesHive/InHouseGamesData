@@ -21,7 +21,9 @@
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/PregnantSim_1.png"
 			],
 			"iconCounter": 0,
-			"videoURLs": [],
+			"videoURLs": [
+			    "https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/PregnantSim_1.mp4"
+			],
 			"videoCounter": 0
 		},
 		{
@@ -51,7 +53,9 @@
 				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/SteakCooking_1.png"
 			],
 			"iconCounter": 0,
-			"videoURLs": [],
+			"videoURLs": [
+			    "https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/SteakCooking_1.mp4"
+			],
 			"videoCounter": 0
 		},
 		{
