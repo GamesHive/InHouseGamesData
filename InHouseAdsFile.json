@@ -11,6 +11,7 @@
 	
 	    {
 			"adUsageStatus": 0,
+			"inHouseAdPriority":0,
 			"iH_AdType": 0,
 			"gameName": "Pregnant Simulator",
 			"bundleId": "com.gameshive.pregnantsim",
@@ -28,6 +29,7 @@
 		},
 		{
 			"adUsageStatus": 0,
+			"inHouseAdPriority":0,
 			"iH_AdType": 0,
 			"gameName": "DIY Makeup",
 			"bundleId": "com.gameshive.diymakeup",
@@ -43,6 +45,7 @@
 		},
 		{
 			"adUsageStatus": 0,
+			"inHouseAdPriority":0,
 			"iH_AdType": 0,
 			"gameName": "Steak Cooking",
 			"bundleId": "com.gameshive.steakcooking",
@@ -60,6 +63,7 @@
 		},
 		{
 			"adUsageStatus": 0,
+			"inHouseAdPriority":0,
 			"iH_AdType": 0,
 			"gameName": "Mommy Pizza",
 			"bundleId": "com.gameshive.ilovepizza",
@@ -75,6 +79,7 @@
 		},
 		{
 			"adUsageStatus": 0,
+			"inHouseAdPriority":0,
 			"iH_AdType": 0,
 			"gameName": "Family Simulator",
 			"bundleId": "com.gameshive.familysim",
@@ -90,6 +95,7 @@
 		},
 		{
 			"adUsageStatus": 0,
+			"inHouseAdPriority":0,
 			"iH_AdType": 0,
 			"gameName": "Cooking Craft",
 			"bundleId": "com.gameshive.cookingadvanture",
