@@ -1,0 +1,115 @@
+{
+	"IsEnabled": false,
+	"AdRefreshTime": 6,
+	"buttonNames": [
+		"Try Now",
+		"Get It",
+		"Try It",
+		"Download"
+	],
+	"inHouseSingleDatas": [
+	
+	    {
+			"adUsageStatus": 0,
+			"inHouseAdPriority":1,
+			"iH_AdType": 0,
+			"gameName": "Pregnant Simulator",
+			"bundleId": "com.gameshive.pregnantsim",
+			"ios_ApId": "1667757097",
+			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.pregnantsim",
+			"url_IOS": "https://apps.apple.com/us/app/pregnant-mom-birth-simulator/id1667757097",
+			"iconURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/PregnantSim_1.png"
+			],
+			"iconCounter": 0,
+			"videoURLs": [
+			    "https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/PregnantSim_1.mp4"
+			],
+			"videoCounter": 0
+		},
+		{
+			"adUsageStatus": 0,
+			"inHouseAdPriority":0,
+			"iH_AdType": 0,
+			"gameName": "DIY Makeup",
+			"bundleId": "com.gameshive.diymakeup",
+			"ios_ApId": "1641330964",
+			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.diymakeup",
+			"url_IOS": "https://apps.apple.com/us/app/salon-master-makeup-artist/id1641330964",
+			"iconURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/DiyMakeup_1.png"
+			],
+			"iconCounter": 0,
+			"videoURLs": [],
+			"videoCounter": 0
+		},
+		{
+			"adUsageStatus": 0,
+			"inHouseAdPriority":1,
+			"iH_AdType": 0,
+			"gameName": "Steak Cooking",
+			"bundleId": "com.gameshive.steakcooking",
+			"ios_ApId": "6444181331",
+			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.steakcooking",
+			"url_IOS": "https://apps.apple.com/us/app/steak-cooking-food-cutting/id6444181331",
+			"iconURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/SteakCooking_1.png"
+			],
+			"iconCounter": 0,
+			"videoURLs": [
+			    "https://raw.githubusercontent.com/GamesHive/InHouseAdsGameVideos/main/SteakCooking_1.mp4"
+			],
+			"videoCounter": 0
+		},
+		{
+			"adUsageStatus": 0,
+			"inHouseAdPriority":1,
+			"iH_AdType": 0,
+			"gameName": "Mommy Pizza",
+			"bundleId": "com.gameshive.ilovepizza",
+			"ios_ApId": "1642923411",
+			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.ilovepizza",
+			"url_IOS": "https://apps.apple.com/us/app/overcooked-pizza-make-a-pizza/id1642923411",
+			"iconURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/MommyPizza_1.png"
+			],
+			"iconCounter": 0,
+			"videoURLs": [],
+			"videoCounter": 0
+		},
+		{
+			"adUsageStatus": 0,
+			"inHouseAdPriority":0,
+			"iH_AdType": 0,
+			"gameName": "Family Simulator",
+			"bundleId": "com.gameshive.familysim",
+			"ios_ApId": "6443656336",
+			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.familysim",
+			"url_IOS": "https://apps.apple.com/us/app/virtual-family-life-mom-game/id6443656336",
+			"iconURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/FamilySimulator_1.png"
+			],
+			"iconCounter": 0,
+			"videoURLs": [],
+			"videoCounter": 0
+		},
+		{
+			"adUsageStatus": 0,
+			"inHouseAdPriority":0,
+			"iH_AdType": 0,
+			"gameName": "Cooking Craft",
+			"bundleId": "com.gameshive.cookingadvanture",
+			"ios_ApId": "6443555565",
+			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.cookingadvanture",
+			"url_IOS": "https://apps.apple.com/us/app/crazy-cooking-simulator-game/id6443555565",
+			"iconURLs": [
+				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/CookingCraft_1.png"
+			],
+			"iconCounter": 0,
+			"videoURLs": [],
+			"videoCounter": 0
+		}
+		
+	],
+	"bundleCounter": 0
+}
