@@ -11,7 +11,7 @@
 	
 	    {
 			"adUsageStatus": 0,
-			"inHouseAdPriority":0,
+			"inHouseAdPriority":1,
 			"iH_AdType": 0,
 			"gameName": "Pregnant Simulator",
 			"bundleId": "com.gameshive.pregnantsim",
@@ -45,7 +45,7 @@
 		},
 		{
 			"adUsageStatus": 0,
-			"inHouseAdPriority":0,
+			"inHouseAdPriority":1,
 			"iH_AdType": 0,
 			"gameName": "Steak Cooking",
 			"bundleId": "com.gameshive.steakcooking",
