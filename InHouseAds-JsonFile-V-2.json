@@ -29,22 +29,6 @@
 		},
 		{
 			"adUsageStatus": 0,
-			"inHouseAdPriority":0,
-			"iH_AdType": 0,
-			"gameName": "DIY Makeup",
-			"bundleId": "com.gameshive.diymakeup",
-			"ios_ApId": "1641330964",
-			"gameURL": "https://play.google.com/store/apps/details?id=com.gameshive.diymakeup",
-			"url_IOS": "https://apps.apple.com/us/app/salon-master-makeup-artist/id1641330964",
-			"iconURLs": [
-				"https://raw.githubusercontent.com/GamesHive/InHouseAdsGameIcon/main/DiyMakeup_1.png"
-			],
-			"iconCounter": 0,
-			"videoURLs": [],
-			"videoCounter": 0
-		},
-		{
-			"adUsageStatus": 0,
 			"inHouseAdPriority":1,
 			"iH_AdType": 0,
 			"gameName": "Steak Cooking",
